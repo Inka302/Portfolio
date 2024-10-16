@@ -18,4 +18,12 @@ body {
         h1, h2, h3, i, p {
             text-indent: 100px;
             }
+
+    style {
+        .rectangle {
+        height: 50px;
+        width: 100px;
+        background-color: #555;
+        }
+    }
 }
