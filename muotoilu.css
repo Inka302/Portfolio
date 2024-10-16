@@ -8,14 +8,17 @@ body {
             }
         h2 {
             font-family: 'Comfortaa'; font-weight: lighter;
-        }
+            }
         h3 {
             font-family: 'Nunito'; font-weight: lighter;
         }
-        i, p {
+        i {
             font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 100;
-        }
-    h1, h2, h3, i, p {
-        text-indent: 100px;
-        }
+            }
+        p {
+           font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 100;
+            }
+        h1, h2, h3, i, p {
+            text-indent: 100px;
+            }
 }
