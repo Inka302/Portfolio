@@ -13,7 +13,7 @@ body {
             font-family: 'Nunito'; font-weight: lighter;
         }
         i, p {
-            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: lighter;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 100;
         }
     h1, h2, h3, i, p {
         text-indent: 100px;
