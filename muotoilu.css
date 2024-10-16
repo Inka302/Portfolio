@@ -15,4 +15,9 @@ body {
         i, p {
             font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
         }
+
+        /*margin: top, right, bottom, left*/
+        h1, h2, h3, i, p {
+            margin: 50px, 100px, 50px, 100px;
+        }
 }
