@@ -4,16 +4,16 @@ body {
     background: linear-gradient(180deg, rgb(242, 183, 209) 0%, rgb(200, 149, 241) 25%, rgb(94, 84, 207) 50%, rgb(27, 29, 62) 75%, rgb(8, 7, 21) 100%);
 
         h1 {
-            font-family: 'Roboto Mono'; font-size: larger; font-weight: lighter; 
+            font-family: 'Roboto Mono'; font-size: xx-large; font-weight: lighter; 
             }
         h2 {
-            font-family: 'Comfortaa';
+            font-family: 'Comfortaa'; font-weight: lighter;
         }
         h3 {
-            font-family: 'Nunito';
+            font-family: 'Nunito'; font-weight: lighter;
         }
         i, p {
-            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: lighter;
         }
     h1, h2, h3, i, p {
         text-indent: 100px;
