@@ -2,8 +2,6 @@ body {
     background-size: cover;
     background: rgb(238,174,202);
     background: linear-gradient(180deg, rgb(242, 183, 209) 0%, rgb(200, 149, 241) 25%, rgb(94, 84, 207) 50%, rgb(27, 29, 62) 75%, rgb(8, 7, 21) 100%);
-    /*margin: top, right, bottom, left*/
-    padding: 50px, 100px, 50px, 100px;
 
         h1 {
             font-family: 'Roboto Mono'; font-size: large;
@@ -16,5 +14,8 @@ body {
         }
         i, p {
             font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+        }
+    h1, h2, h3, i, p {
+        text-indent: 100px;
         }
 }
