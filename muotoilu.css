@@ -18,4 +18,16 @@ body {
         h1, h2, h3, i, p {
             text-indent: 100px;
             }
+
+    .container .box {
+            style {
+                .container .box {
+                    display:flex;
+                    flex-direction: row;
+                }
+                .container .box .box-cell.box1 {
+                    background-color: antiquewhite;
+                }
+            }
+        }
 }
