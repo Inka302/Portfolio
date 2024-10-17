@@ -18,16 +18,32 @@ body {
         h1, h2, h3, i, p {
             text-indent: 100px;
             }
+/*info card visuals*/
+   .container {
+    display: flex;
+    flex-wrap: wrap;
+}
 
-    .container .box {
-            style {
-                .container .box {
-                    display:flex;
-                    flex-direction: row;
-                }
-                .container .box .box-cell.box1 {
-                    background-color: antiquewhite;
-                }
-            }
-        }
+.box-row {
+    display: flex;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.box-cell {
+    flex: 1;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+.box1 {
+    background-color: #e7f7ff;
+}
+
+.box2 {
+    background-color: #ffefe7;
+}
+
 }
