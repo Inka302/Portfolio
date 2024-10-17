@@ -38,6 +38,7 @@ body {
     background-color: #f9f9f9;
     border-radius: 10px;
     border: 5px dotted #ccc;
+    box-shadow: 0 0 0 2px #ccc inset;
 }
 
 .box1 {
